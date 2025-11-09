@@ -39,6 +39,9 @@ Maintained ICT systems, managed reports, and ensured smooth communication betwee
 ---
 
 ## 🎓 Education & Certifications
+- 🎓 **Masters in Information Technology (Running)** — *Jahangirnagar University*  
+- 🎓 **B.Sc in Electrical and Electronic Engineering (EEE)** — *East Delta University (EDU)*  
+- 🎓 **Diploma in Engineering (Department of Electrical Technology)** — *Bangladesh Technical Education Board (BTEB)*  
 - 🎓 **Graduate Diploma in Networking Technologies** — *IsDB-BISEW*  
 - 📜 **MTCNA**, **Huawei Datacom Campus Network Associate**  
 - 🎓 **MSS in Political Science** — *National University, Bangladesh*  
